@@ -1,8 +1,8 @@
 {
-    "module": "{@name}",
-    "name": "{@nameLabel}",
-    "description": "{@description}",
-    "author": "{@author}",
+    "module": "ExtensionFieldPlus",
+    "name": "Extension Field Plus",
+    "description": "Extension Field Plus",
+    "author": "crm-team",
     "acceptableVersions": [
         ">=5.9.0"
     ],

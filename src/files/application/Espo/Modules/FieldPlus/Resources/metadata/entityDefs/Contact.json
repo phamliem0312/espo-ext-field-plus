@@ -1,0 +1,11 @@
+{
+    "fields":{
+        "idCard": {
+            "type": "idCard",
+            "typeList": ["CMT", "CCCD", "PassPort", "HC", "Other"],
+            "defaultType": "CMT",
+            "isPersonalData": true,
+            "view": "field-plus:views/fields/id-card"
+        }
+    }
+}
