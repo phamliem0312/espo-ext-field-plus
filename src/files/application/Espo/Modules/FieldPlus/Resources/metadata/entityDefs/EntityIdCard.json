@@ -1,0 +1,24 @@
+{
+    "fields" : {
+      "id" : {
+        "type" : "id",
+        "autoincrement" : true,
+        "dbType" : "bigint"
+      },
+      "deleted" : {
+        "type" : "bool"
+      },
+      "entityId" : {
+        "type" : "foreignId"
+      },
+      "idCardId" : {
+        "type" : "foreignId"
+      },
+      "entityType" : {
+        "type" : "varchar"
+      },
+      "primary" : {
+        "type" : "bool"
+      }
+    }
+}
